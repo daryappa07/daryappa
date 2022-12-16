@@ -7,6 +7,6 @@
            remote="myremote"
            sync-j="4" />
 
-  <project path="Android/NavyaSivakoti/Day06Prob01ForLoop" name="NavyaSivakoti/Day06Prob01ForLoop" revision="uc-1"/>
+  <project path="https://github.com/nikhilswamyanabur/nikhil.git" name="nikhilswamyanabur/nikhil"/>
 </manifest>
 
