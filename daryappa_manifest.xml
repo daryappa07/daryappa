@@ -7,6 +7,6 @@
            remote="myremote"
            sync-j="4" />
 
-  <project path="https://github.com/nikhilswamyanabur/nikhil.git" name="nikhilswamyanabur/nikhil"/>
+  <project path="android/nikhil_code" name="nikhilswamyanabur/nikhil"/>
 </manifest>
 
