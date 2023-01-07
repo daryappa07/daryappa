@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-        <remote  name="myremote" fetch=".." review="https://github.com" />
-	<!-- <remote name="aosp" fetch="https://android.googlesource.com" /> -->
-	<!-- <default revision="main" remote="myremote" sync-j="4" /> -->
-	<project name="daryappa07/daryappa" path="daryappa" revision="main" remote="myremote"/>
-	<!-- <project name="device/asus/deb" path="Android/daryappa_repo" revision="master" remote="aosp"/> -->
+	<!-- <remote  name="myremote" fetch=".." review="https://github.com" /> 
+	<remote name="gerrit" fetch=".." review="https://gerrit.googlesource.com" /> -->
+	 <remote name="aosp" fetch="https://android.googlesource.com" /> 
+	<!-- <default revision="main" remote="myremote" sync-j="4" /> 
+	<project name="git-repo" path="dyari" revision="master" remote="gerrit" />
+	<project name="yogiraj2411/yogiraj_repo" path="yogirepo" revision="main" remote="myremote" />
+	<project name="daryappa07/daryappa" path="daryappa" revision="main" remote="myremote"/> -->
+	<project name="device/asus/deb" path="Android/daryappa_repo" revision="master" remote="aosp"/>
 	<!-- <project path="Android/yogirajs_repo" name="yogiraj2411/yogiraj_repo" /> -->
 	<!--	<project name="amruthaar93/githubasgn1" path="Android/amruthas_code" /> -->
 </manifest>
